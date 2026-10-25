@@ -4,6 +4,22 @@ AfriConnect est une application web fullstack inspirée de LinkedIn, conçue pou
 
 ---
 
+## Captures d'écran
+
+| Page de connexion | Création de compte |
+| :---: | :---: |
+| ![Page de connexion](docs/screenshots/login.png) | ![Création de compte](docs/screenshots/register.png) |
+
+| Fil d'actualité | Profils & connexions |
+| :---: | :---: |
+| ![Fil d'actualité](docs/screenshots/feed.png) | ![Connexions](docs/screenshots/connexions.png) |
+
+| Profil professionnel | Messagerie temps réel |
+| :---: | :---: |
+| ![Profil](docs/screenshots/profil.png) | ![Messagerie](docs/screenshots/messages.png) |
+
+---
+
 ## Fonctionnalités principales
 
 * Authentification sécurisée (inscription / connexion)
